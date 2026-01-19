@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello from file 1
+=======
+ghgh
+
+>>>>>>> e815fe0 (file 1)
